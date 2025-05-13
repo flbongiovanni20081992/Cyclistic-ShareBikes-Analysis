@@ -40,7 +40,7 @@ Analyze user behavior of the fictional company *Cyclistic* to recommend strategi
 
 The final presentation is available in PDF format. It includes Tableau visualizations and strategic recommendations.
 
-📎 [View presentation](Cyclistic_Presentation.pdf)
+📎 [View presentation](https://github.com/flbongiovanni20081992/Cyclistic-ShareBikes-Analysis/blob/main/Cyclistic%20Presentation.pdf)
 
 ---
 
